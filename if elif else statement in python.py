@@ -1,9 +1,9 @@
-#if True:
-#     print("Im right")
+if True:
+     print("Im right")
 
-# if False:
-#     print("Im right")
-#     print("Bye")
+ if False:
+     print("Im right")
+     print("Bye")
 
 
 x = 4
